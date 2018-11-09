@@ -1,0 +1,30 @@
+{
+
+  "productos": [
+    {
+      "codigo": "01",
+      "nombre": "Coca Cola",
+      "fechaven": "12-12-2019",
+      "categoria": "Bebidas",
+      "precio": "1000"
+    },
+    {
+      "codigo": "02",
+      "nombre": "Arroz",
+      "fechaven": "05-08-2019",
+      "categoria": "Alimentos",
+      "precio": "799"
+
+    },
+    {
+      "codigo": "03",
+      "nombre": "Leche",
+      "fechaven": "20-10-2020",
+      "categoria": "Lácteos",
+      "precio": "700"
+
+    }
+
+  ]
+
+}
